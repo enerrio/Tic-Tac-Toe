@@ -8,3 +8,5 @@ It's not complete and doesn't look very pretty but it did help me learn about in
 
 Later I might try to add more features to it. The biggest problem with it is that it doesn't have an option if two players end the game in a draw.
 It works but for now I'm going to leave it and continue watching the lectures and learning other aspects about Swift and making apps.
+
+Testing
